@@ -14,8 +14,7 @@ const Pier = {
         },
         databases: ["MongoDB", "MySql"],
     },
-    architecture: [ "Progressive web applications", "Single page applications"],
-    funFact: "Ctrl + C and Ctrl + V have saved more lives than Batman and Robin."
+    architecture: [ "Progressive web applications", "Single page applications"]
 };
 ```
 
