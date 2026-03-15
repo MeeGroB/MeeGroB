@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently practicing **Typescript, Next js and MERN stack**
 
-- 👨‍💻 Almost all of my projects are available at **[https://pierchavez.netlify.app/](https://pierchavez.vercel.app/)**
+- 👨‍💻 Almost all of my projects are available at **[https://pierchavez.vercel.app/](https://pierchavez.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
