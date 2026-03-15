@@ -57,7 +57,7 @@
 
 ```javascript
 const Pier = {
-    code: ["Javascript", "Typescript", "React", "Node,"Nextjs"],
+    code: ["Javascript", "Typescript", "React", "Node, "Nextjs"],
     askMeAbout: ["Tech", "Web Development", "Gaming"],
     technologies: {
         frontEnd: {
