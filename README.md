@@ -1,4 +1,4 @@
-# Hi, 👋 I'm [Pier Chávez](https://pierchavez.netlify.app/)
+# Hi, 👋 I'm [Pier Chávez]([https://pierchavez.netlify.app/](https://pierchavez.vercel.app/))
 
 ### I'm a software engineer with almost 8 years of experience programming in javascript. I'm appasionate in web development.
 
